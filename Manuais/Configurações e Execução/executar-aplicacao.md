@@ -1,6 +1,4 @@
----
-description: Passos para executar a aplicação.
----
+Passos para executar a aplicação.
 
 # 🚀 Executar Aplicação
 
