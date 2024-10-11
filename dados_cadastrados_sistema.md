@@ -167,7 +167,7 @@ CORRESPONDÊNCIAS
 ----------------
 
 |ASSUNTOS                                | EIXOS CURRICULARES                        |
-|-------------------------------------------------------------------------------------
+|----------------------------------------|--------------------------------------------
 |Cálculo                                 | Computação Avançada                       |
 |Geometria Analítica                     | Computação Avançada                       |
 |Álgebra Linear                          | Computação Avançada                       |
